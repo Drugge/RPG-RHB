@@ -6,6 +6,10 @@ null,
 {"id":3,"expanded":false,"name":"House_home","order":3,"parentId":2,"scrollX":1092,"scrollY":614.6666666666666}
 =======
 {"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":832,"scrollY":640},
+<<<<<<< HEAD
 {"id":2,"expanded":false,"name":"MAP002","order":2,"parentId":0,"scrollX":459,"scrollY":312.5}
 >>>>>>> 4a95ce73b00fff7fe6f53d73269a3703e3fa7de4
+=======
+{"id":2,"expanded":false,"name":"MAP002","order":2,"parentId":0,"scrollX":1092,"scrollY":614.6666666666666}
+>>>>>>> parent of 4a95ce7... Gave the map more feeling
 ]
